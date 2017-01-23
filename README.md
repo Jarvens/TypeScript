@@ -9,3 +9,4 @@ Gulp + TypeScript
 * npm install babel -g       //用来转换es6代码到es5
 * npm install babel-runtime  //用来转换es6代码到es5
 
+
